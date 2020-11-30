@@ -34,6 +34,6 @@
   "initiative": "1d20 + @attributes.init.value",
   "url": "https://github.com/adotor/foundryvtt-dcc",
   "manifest": "https://github.com/adotor/foundryvtt-dcc/raw/master/system.json",
-  "download": "https://github.com/adotor/foundryvtt-dcc/archive/v0.0.17.zip",
+  "download": "https://github.com/adotor/foundryvtt-dcc/archive/german-localization-test.zip",
   "license": "LICENSE.txt"
 }
