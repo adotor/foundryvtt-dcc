@@ -27,8 +27,8 @@
   "secondaryTokenAttribute": "luck",
   "socket": true,
   "initiative": "1d20 + @attributes.init.value",
-  "url": "https://github.com/cyface/foundryvtt-dcc",
-  "manifest": "https://github.com/cyface/foundryvtt-dcc/raw/master/system.json",
-  "download": "https://github.com/cyface/foundryvtt-dcc/archive/v0.0.17.zip",
+  "url": "https://github.com/adotor/foundryvtt-dcc",
+  "manifest": "https://github.com/adotor/foundryvtt-dcc/raw/master/system.json",
+  "download": "https://github.com/adotor/foundryvtt-dcc/archive/master.zip",
   "license": "LICENSE.txt"
 }
